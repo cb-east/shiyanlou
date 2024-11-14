@@ -5,3 +5,4 @@ test add
 test foo
 test foo2
 haha
+good
